@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Altar de Muertos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff5e6;
+            color: #000000;
+            margin: 0;
+        }
+
+        header {
+            background-color: #4a0e4e;
+            color: #ffb700;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header p {
+            color: #ffffff;
+        }
+
+        .contenedor {
+            width: 80%;
+            margin: 20px auto;
+        }
+
+        h2 {
+            color: #4a0e4e;
+            padding-bottom: 5px;
+        }
+
+        .estructura {
+            background-color: #ffe6f0;
+            border: 2px solid #e60073;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+
+        .tarjeta {
+            background-color: #ffffff;
+            border: 1px solid #cccccc;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .tarjeta h3 {
+            color: #4a0e4e;
+            margin-top: 0;
+        }
+
+        footer {
+            background-color: #4a0e4e;
+            color: #ffffff;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>El Altar de Muertos</h1>
+        <p>Elementos y significado tradicional</p>
+    </header>
+
+    <div class="contenedor">
+
+        <h2>Estructura del Altar</h2>
+        <div class="estructura">
+            <p><strong>1 Niveles:</strong> Cielo y tierra.</p>
+            <p><strong>2 Niveles:</strong> Cielo, tierra e inframundo.</p>
+            <p><strong>3 Niveles:</strong> Pasos para que el alma descanse en paz.</p>
+        </div>
+
+        <h2>Elementos Indispensables</h2>
+
+        <div class="tarjeta">
+            <h3>Fotografía</h3>
+            <p>Se coloca en lo alto para honrar la memoria del difunto que visitará la ofrenda.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Flor de Cempasúchil</h3>
+            <p>Su color y aroma guían el camino de las almas hacia el altar.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Agua y Sal</h3>
+            <p>El agua calma la sed del viaje y la sal purifica el espíritu.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Veladoras</h3>
+            <p>La luz simboliza la fe y la esperanza que alumbra el regreso del alma.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Pan de Muerto</h3>
+            <p>Representa el cuerpo de los fallecidos y el ciclo de la vida y la muerte.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Calaveritas</h3>
+            <p>De azúcar o chocolate, representan la muerte como algo natural e inevitable.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Papel Picado</h3>
+            <p>Aporta color y representa el elemento aire y la fragilidad de la vida.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Copal o Incienso</h3>
+            <p>Limpia el ambiente de malas energías y eleva las oraciones al cielo.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Comida y Bebida</h3>
+            <p>Los platillos favoritos del difunto para que disfrute en su visita.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>Arco de Flores</h3>
+            <p>Simboliza la puerta de entrada entre el mundo de los vivos y los muertos.</p>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Día de Muertos — Patrimonio Cultural de México</p>
+    </footer>
+
+</body>
+</html>
